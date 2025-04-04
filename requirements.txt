@@ -4,3 +4,8 @@ langgraph
 langchain
 langchain_groq
 langchain_community
+langsmith
+typing
+typing_extensions
+arxiv
+wikipedia
