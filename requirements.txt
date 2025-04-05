@@ -14,3 +14,5 @@ tiktoken
 langchainhub
 chromadb
 langchain_huggingface
+arxiv
+wikipedia
